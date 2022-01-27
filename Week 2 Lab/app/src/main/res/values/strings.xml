@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week2CET3013NLab</string>
+    <string name="title">Hello, please enter your login credentials</string>
+    <string name="username">Enter Username</string>
+    <string name="password">Enter Password</string>
+    <string name="login_btn">Login</string>
+</resources>
