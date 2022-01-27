@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
                 //Check the name and password length
                 if(name.length() > 4 ){
                     if (password.length() >= 4) {
-                        Toast.makeText(getApplicationContext(), "Welcome" + name,
+                        Toast.makeText(getApplicationContext(), "Welcome " + name,
                                 Toast.LENGTH_LONG).show();
                     }//inner if
                     else{
